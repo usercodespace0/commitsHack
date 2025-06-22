@@ -1,0 +1,28 @@
+{
+  "name": "commitshack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usercodespace0/commitsHack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usercodespace0/commitsHack/issues"
+  },
+  "homepage": "https://github.com/usercodespace0/commitsHack#readme",
+  "description": "",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "random": "^5.4.0",
+    "simple-git": "^3.28.0"
+  }
+}
